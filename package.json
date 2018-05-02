@@ -1,5 +1,5 @@
 {
-  "name": "text-encoding",
+  "name": "window-text-encoding",
   "author": "Joshua Bell <inexorabletash@gmail.com>",
   "contributors": [
     "Joshua Bell <inexorabletash@gmail.com>",
@@ -12,7 +12,7 @@
     "Pierre Queinnec <pierre@queinnec.org>",
     "Zack Weinberg <zackw@panix.com>"
   ],
-  "version": "0.6.4",
+  "version": "0.0.1",
   "description": "Polyfill for the Encoding Living Standard's API.",
   "main": "index.js",
   "files": [
